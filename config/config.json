@@ -1,0 +1,9 @@
+{
+  "host": "localhost",
+  "user": "root",
+  "port": "3306",
+  "password": "",
+  "database": "report",
+  "queueLimit": 0,
+  "connectionLimit": 0
+}
